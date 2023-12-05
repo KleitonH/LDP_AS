@@ -1,0 +1,28 @@
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\bin\Debug\net7.0\AS.exe
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\bin\Debug\net7.0\AS.deps.json
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\bin\Debug\net7.0\AS.runtimeconfig.json
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\bin\Debug\net7.0\AS.dll
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\bin\Debug\net7.0\AS.pdb
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\obj\Debug\net7.0\AS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\obj\Debug\net7.0\AS.AssemblyInfoInputs.cache
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\obj\Debug\net7.0\AS.AssemblyInfo.cs
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\obj\Debug\net7.0\AS.csproj.CoreCompileInputs.cache
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\obj\Debug\net7.0\AS.dll
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\obj\Debug\net7.0\refint\AS.dll
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\obj\Debug\net7.0\AS.pdb
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\obj\Debug\net7.0\AS.genruntimeconfig.cache
+C:\Users\kreid\Desktop\ADS\Laboratório de Programação\AP\AS\obj\Debug\net7.0\ref\AS.dll
+C:\Users\Notas\Desktop\Projetos\AS\bin\Debug\net7.0\AS.exe
+C:\Users\Notas\Desktop\Projetos\AS\bin\Debug\net7.0\AS.deps.json
+C:\Users\Notas\Desktop\Projetos\AS\bin\Debug\net7.0\AS.runtimeconfig.json
+C:\Users\Notas\Desktop\Projetos\AS\bin\Debug\net7.0\AS.dll
+C:\Users\Notas\Desktop\Projetos\AS\bin\Debug\net7.0\AS.pdb
+C:\Users\Notas\Desktop\Projetos\AS\obj\Debug\net7.0\AS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notas\Desktop\Projetos\AS\obj\Debug\net7.0\AS.AssemblyInfoInputs.cache
+C:\Users\Notas\Desktop\Projetos\AS\obj\Debug\net7.0\AS.AssemblyInfo.cs
+C:\Users\Notas\Desktop\Projetos\AS\obj\Debug\net7.0\AS.csproj.CoreCompileInputs.cache
+C:\Users\Notas\Desktop\Projetos\AS\obj\Debug\net7.0\AS.dll
+C:\Users\Notas\Desktop\Projetos\AS\obj\Debug\net7.0\refint\AS.dll
+C:\Users\Notas\Desktop\Projetos\AS\obj\Debug\net7.0\AS.pdb
+C:\Users\Notas\Desktop\Projetos\AS\obj\Debug\net7.0\AS.genruntimeconfig.cache
+C:\Users\Notas\Desktop\Projetos\AS\obj\Debug\net7.0\ref\AS.dll
